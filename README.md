@@ -1,14 +1,29 @@
-### Hi there 👋
+## 👨‍💻 JavaScript enthusiast | Victor Andrade
 
-**victoandrad/victoandrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📤 Wanna Meet Up?
 
-Here are some ideas to get you started:
+Send me a request or a DM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> 💼 [LinkedIn](https://linkedin.com/in/victoandrad)
+> >
+> 📷 [Instagram](https://instagram.com/victoandrad)
+> >
+> 🐦 [Twitter](https://twitter.com/victoandrad_)
+
+### ☕ More About Me
+
+```javascript
+const aboutMe = {
+    user: {
+        username: 'Victor Andrade',
+        age: 19,
+        job: 'Software Engineering Student'
+    },
+    tecnologies: {
+        frontend: ['HTML', 'CSS', 'JavaScript'],
+        backend: ['NodeJS']
+    }
+}
+```
+
+![GIF](1_mB6YLIGqIk1hTzU6Fb12zQ.gif)

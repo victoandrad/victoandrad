@@ -25,5 +25,3 @@ const aboutMe = {
     }
 }
 ```
-
-![GIF](1_mB6YLIGqIk1hTzU6Fb12zQ.gif)

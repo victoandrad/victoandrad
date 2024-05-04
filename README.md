@@ -1,4 +1,4 @@
-## 👨‍💻 JavaScript enthusiast | Victor Andrade
+## 👨‍💻 JavaScript developer | Victor Andrade
 
 ### 📤 Wanna Meet Up?
 

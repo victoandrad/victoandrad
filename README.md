@@ -21,7 +21,7 @@ const aboutMe = {
     },
     tecnologies: {
         frontend: ['HTML', 'CSS', 'JavaScript'],
-        backend: ['NodeJS']
+        backend: ['Node']
     }
 }
 ```

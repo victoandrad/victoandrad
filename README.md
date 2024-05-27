@@ -1,4 +1,4 @@
-## 👨‍💻 JavaScript developer | Victor Andrade
+## 👨‍💻 Front-end developer | Victor Andrade
 
 ### 📤 Wanna Meet Up?
 

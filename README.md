@@ -1,4 +1,4 @@
-## 👨‍💻 Front-end developer | Victor Andrade
+## 👨‍💻 Software Engineer Student | Victor Andrade
 
 ### 📤 Wanna Meet Up?
 

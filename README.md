@@ -5,10 +5,6 @@
 Send me a request or a DM
 
 > 💼 [LinkedIn](https://linkedin.com/in/victoandrad)
-> >
-> 📷 [Instagram](https://instagram.com/victoandrad)
-> >
-> 🐦 [Twitter](https://twitter.com/victoandrad_)
 
 ### ☕ More About Me
 

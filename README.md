@@ -2,7 +2,7 @@
 
 ### 📤 Wanna Meet Up?
 
-Send me a request or a DM
+Feel free to send me a request or slide into my DMs! Let's connect and make something awesome.
 
 > 💼 [LinkedIn](https://linkedin.com/in/victoandrad)
 
@@ -17,7 +17,9 @@ const aboutMe = {
     },
     tecnologies: {
         frontend: ['HTML', 'CSS', 'JavaScript'],
-        backend: ['Node']
+        backend: ['Node'],
+        tools: ['Git', 'GitHub'],
+        funFact: 'I can code for hours while listening to Lo-Fi beats'
     }
 }
 ```

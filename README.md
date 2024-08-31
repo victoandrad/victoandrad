@@ -1,4 +1,4 @@
-## 👨‍💻 Software Engineer Student | Victor Andrade
+## 👨‍💻 Software Engineer | Victor Andrade
 
 ### 📤 Wanna Meet Up?
 

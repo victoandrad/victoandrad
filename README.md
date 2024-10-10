@@ -17,9 +17,8 @@ const aboutMe = {
     },
     tecnologies: {
         frontend: ['HTML', 'CSS', 'JavaScript'],
-        backend: ['Node'],
+        backend: ['Node', 'Java'],
         tools: ['Git', 'GitHub'],
-        funFact: 'I can code for hours while listening to Lo-Fi beats'
     }
 }
 ```

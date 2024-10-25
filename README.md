@@ -1,24 +1,29 @@
-## 👨‍💻 Software Engineer | Victor Andrade
+## 👨‍💻 Software Engineer
 
 ### 📤 Wanna Meet Up?
 
-Feel free to send me a request or slide into my DMs! Let's connect and make something awesome.
+Contact me for new projects
 
 > 💼 [LinkedIn](https://linkedin.com/in/victoandrad)
 
 ### ☕ More About Me
 
 ```javascript
-{
+const aboutMe = {
     user: {
         username: 'Victor Andrade',
         age: 19,
-        job: 'Software Engineering'
+        profession: 'Software Engineering'
     },
-    tecnologies: {
+    skills: {
         frontend: ['HTML', 'CSS', 'JavaScript'],
-        backend: ['Node', 'Java'],
-        tools: ['Git', 'GitHub'],
-    }
+        backend: ['Node.js', 'Java', 'Spring Boot'],
+        databases: ['MySQL'],
+        tools: ['Git', 'GitHub', 'Maven'],
+        designPatterns: ['DAO'],
+        architecturePatterns: [],
+        testing: ['JUnit', 'Selenium'],
+    },
+    methodologies: ['Agile', 'Scrum'],
 }
 ```

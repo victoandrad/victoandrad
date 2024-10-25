@@ -1,12 +1,11 @@
-# 👨‍💻 AI Researcher | Software Engineer
+## 👨‍💻 AI Researcher | Software Engineer
 
-## 📤 Wanna Meet Up?
+### 📤 Wanna Meet Up?
 
 Contact me for new projects
-
 > 💼 [LinkedIn](https://linkedin.com/in/victoandrad)
 
-## ☕ More About Me
+### ☕ More About Me
 
 ```javascript
 const aboutMe = {

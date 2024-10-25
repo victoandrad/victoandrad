@@ -1,4 +1,4 @@
-## 👨‍💻 Software Engineer
+## 👨‍💻 AI Researcher and Software Engineer
 
 ### 📤 Wanna Meet Up?
 

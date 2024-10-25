@@ -9,11 +9,11 @@ Feel free to send me a request or slide into my DMs! Let's connect and make some
 ### ☕ More About Me
 
 ```javascript
-const aboutMe = {
+{
     user: {
         username: 'Victor Andrade',
         age: 19,
-        job: 'Software Engineering Student'
+        job: 'Software Engineering'
     },
     tecnologies: {
         frontend: ['HTML', 'CSS', 'JavaScript'],
@@ -22,7 +22,3 @@ const aboutMe = {
     }
 }
 ```
-
-### 🌟 My Mission
-
-Turning complex problems into simple, elegant solutions through code. Always learning, always growing.

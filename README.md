@@ -1,4 +1,4 @@
-## Victor Andrade | Software Enginner
+## Victor Andrade | AI Researcher & Software Enginner
 
 ### 👨‍🎓 About Me
 I'm a software engineer and artificial intelligence researcher.

@@ -1,15 +1,6 @@
-## Victor Andrade | AI Researcher & Software Enginner
+## Victor Andrade | Software Engineer
 
-### 👨‍🎓 About Me
-I'm a software engineer and artificial intelligence researcher.
-
-### 💼 Skills
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Java, Spring Boot
-- Databases: MySQL
-- Tools: Git, GitHub, Maven
-- Testing: JUnit, Selenium
-- Methodologies: Agile, Scrum
+Hi, I'm a student of Software Engineer, I often appear here to show my projects. If you are interested, click the follow button
 
 ### 📫 Let's Connect
 Feel free to reach out for collaborations or new projects!
